@@ -1,0 +1,5 @@
+../.idea
+*.crt
+*.csr
+*.key
+.env
